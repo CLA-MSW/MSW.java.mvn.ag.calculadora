@@ -5,7 +5,6 @@ public class App {
     public static void main(String[] args) {
         Calculadora c = new Calculadora();
         
-// Aqui la calculadora esta funcionando -----------------------
         System.out.println("CALCULADORA BASICA");
         System.out.println("------------------");
 
